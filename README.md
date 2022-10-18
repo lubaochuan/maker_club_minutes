@@ -1,5 +1,21 @@
 # Maker Club Meeting Minutes
 
+## 10/10/22 Club meeting
+Participants: Coleen, Elijah, Kerby, Lukas, Joel, Michael, Deacon, Dr. Lu, and many
+newcomers as shown in the following photo.
+![group](images/first_meeting.PNG)
+
+First, Elijah and Lukas show the group how to download and setup [Cura](https://ultimaker.com/software/ultimaker-cura) for slicing 3D models. Then, they gave a tour of the Maker lab with the 3D printers. Students who want to use the 3D printers should contact either Elijah or Lukas, who can be found on GroupMe ![QR](images/qr.jpg).
+
+Elijah and Lukas also helped newcomers to jump start a personalized keychain design project https://www.instructables.com/How-to-Use-TinkerCad-Keychain-Edition/
+
+Rencently, Lukas printed the following spacers that are used to hold umbrellas in SBU homecoming!
+![spacer](images/spacer.jpg)
+![spacer1](images/spacer1.jpg)
+
+Coleen have built the following research guide (on our library site) with tons of information about making in general and 3D printing in specific. For example, you can find library books (print or digital) on related subjects and all kinds of online resources. Please check it out.
+
+https://libguides.sbuniv.edu/c.php?g=960724&p=7220656  
 ## 9/12/22 Club Meeting
 Participants: Coleen, Elijah, Tyler C., Kerby, Lukas, Joel, Michael, and Dr. Lu.
 
