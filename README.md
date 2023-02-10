@@ -1,5 +1,14 @@
 # Maker Club Meeting Minutes
 
+## 12/13/22 Club meeting
+Participants: Coleen, Josh, Elijah, Lukas, Joel, Tyler, Dr. Lu, and others as show in the following photo.
+![group](images/christmas_party.jpg)
+
+We chatted about 3D printing project. Dr. Lu showed the icecream churner he was going to print:
+![group](https://cdn.shopify.com/s/files/1/0414/7029/6221/products/iceGIF.gif?v=1658209705)
+
+Elijah brought games from Coleen's collection and planned for the group to watch a movie together, but not enough people seamed interested. People just chatted and had a good time. Elijah said that he would not host our next Christmas party in finals week.
+
 ## 10/10/22 Club meeting
 Participants: Coleen, Elijah, Kerby, Lukas, Joel, Michael, Deacon, Dr. Lu, and many
 newcomers as shown in the following photo.
